@@ -1,0 +1,124 @@
+*{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.logo{
+    margin: 10px;
+}
+
+.navbar{
+    background-color: #faeed9;
+}
+.navlink{
+    margin: 10px;
+    background-color: #faeed9;
+    color: #2a2226;
+    border-radius: 18px;
+    font-weight: bold;
+    padding: 5px;
+    text-decoration: none;
+}
+.navlink:hover{
+    background-color: #e55030;
+    color: #faeed9;
+    font-weight: bold;
+}
+.contact{
+    margin: 10px;
+}
+
+.container2 a:hover, .card a:hover{
+    background-color: #faeed9;
+    color: #2a2226;
+    font-weight: bold;
+    border: solid #2a2226;
+    border-radius: 18px;
+}
+.container2 a, .card a{
+    background-color: #e55030;
+    color: #faeed9;
+    font-weight: bold;
+    border: solid #e55030;
+    border-radius: 18px;
+    margin-top: 40px;
+}
+.typetext{
+    color: #e55030;
+}
+
+.txt{
+    margin-top: 50px;
+}
+.container3{
+    margin-top: 80px;
+    margin-bottom: 80px;
+}
+.tooltxt{
+margin-bottom: 40px;
+color: #e55030;
+}
+
+
+.r2{
+margin-top: 50px;
+color: #2a2226;
+}
+.footer{
+    border-top: solid #e55030 4px;
+    border-radius: 2px;
+    margin-bottom: 30px;
+}
+.container4{
+    margin-bottom: 30px;
+}
+.container4 a{
+    text-decoration: none;
+    color: #2a2226;
+    border-radius: 18px;
+    font-weight: bold;
+}
+.container4 h5, .card h4{
+    font-weight: bold;
+    margin-bottom: 7px;
+}
+.container4 a:hover{
+    color: #e55030;
+    font-weight: bold;
+}
+.breadcrumb a{
+    background-color: #faeed9;
+    color: #2a2226;
+    border-radius: 18px;
+    font-weight: bold;
+    text-decoration: none;
+}
+.breadcrumb a:hover{
+    color: #e55030;
+    font-weight: bold;
+}
+
+.card{
+    background-color: #faeed9;
+    border: none;
+    margin-bottom: 30px;
+}
+
+.container3 div{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.infotxt{
+    margin-top: 40px;
+}
+.info{
+    margin-top: -50px;
+}
+.infolink{
+color: #2a2226;
+font-weight: bold;
+}
+
+
